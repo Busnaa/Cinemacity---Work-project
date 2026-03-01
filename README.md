@@ -11,6 +11,7 @@ Aplika běží aktuálně na soukormé webowé stránce pro společnost CinemaCi
 ## Funkce
 - Vkládání objednávek přes `admin.html`.
 - Přehled všech objednávek v `public.html`.
+- Zvukové efekty při přidání objednávky
 - Ukazování času jak dlouho je objednávka objednaná
 - Následné odstranění objednávki po její dokončení 
 
